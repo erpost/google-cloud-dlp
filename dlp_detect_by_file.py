@@ -54,9 +54,3 @@ if __name__ == '__main__':
     if len(infile) < 1:
         infile = 'fake_ssn_dob.csv'
     detect_file(project_id, infile)
-
-
-    # answer = inspect_file(project_id, input_file)
-    # print('Value: {}\n'
-    #       'InfoType: {}\n'
-    #       'Likelihood: {}\n'.format(answer[0], answer[1], answer[2]))
