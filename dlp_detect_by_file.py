@@ -50,7 +50,7 @@ def detect_file(project, filename):
 
 
 if __name__ == '__main__':
-    infile = input('File to inspect: ')
+    infile = input('File to inspect (default: fake_ssn_dob.csv): ')
     if len(infile) < 1:
         infile = 'fake_ssn_dob.csv'
     detect_file(project_id, infile)

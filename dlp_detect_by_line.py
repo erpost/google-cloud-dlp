@@ -61,7 +61,7 @@ def detect_line(content):
 
 
 if __name__ == '__main__':
-    infile = input('File to inspect: ')
+    infile = input('File to inspect (default: fake_ssn_dob.csv): ')
     if len(infile) < 1:
         infile = 'fake_ssn_dob.csv'
 
