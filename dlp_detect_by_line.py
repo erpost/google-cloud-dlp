@@ -15,10 +15,11 @@ def detect_line(content):
     item = {'value': content}
 
     # The info types to search for in the content. Required.
-    info_types = [{'name': 'PERSON_NAME'}, {'name': 'FIRST_NAME'}, {'name': 'LAST_NAME'},
-                  {'name': 'DATE_OF_BIRTH'},
-                  {'name': 'US_SOCIAL_SECURITY_NUMBER'}]
-    # info_types = [{'name': 'ALL_BASIC'}]
+    info_types = [{'name': 'PERSON_NAME'}]
+
+    # info_types = [{'name': 'PERSON_NAME'}, {'name': 'FIRST_NAME'}, {'name': 'LAST_NAME'},
+    #               {'name': 'DATE_OF_BIRTH'},
+    #               {'name': 'US_SOCIAL_SECURITY_NUMBER'}]
 
     # The minimum likelihood to constitute a match. Optional.
     min_likelihood = 'LIKELIHOOD_UNSPECIFIED'
