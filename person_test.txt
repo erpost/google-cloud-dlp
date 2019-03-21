@@ -2,25 +2,16 @@
 @ Plain Radiography @ Superior Vena Cava
 SPRINKLE,SA
 @ Fluoroscopy @ Superior Vena Cava
-vanilla ice
-Oral Tablet
-OMOP2534811
-PANAMA JACK BROAD SPECTRUM SPF
 NENE DENTE
 vital signs
 Alka Seltzer
-@ Inferior Vena Cava
 V-C FORTE
 @ Replacement @ Inferior Vena Cava
-MG
 50 ML Valeriana officinalis
 PRUNUS SPINOSA E FLOR
-Calendula officinalis
 @ Occlusion @ Superior Vena Cava
 PV THROAT
 Terry White Chemists
-OMOP3068577
-Aquaroemer
 1 ML Viscum
 creal zink
 @ Extirpation @ Inferior Vena Cava
@@ -28,11 +19,9 @@ sequence data
 Mylan Gum
 @ Ultrasonography @ Superior Vena Cava
 ORRIS ROOT
-@ Inferior Vena Cava @ Open @ No Device @ No Qualifier
 @ Plain Radiography @ Superior Vena Cava @ High
 KEYA Smart
 Horse Fly IgE Ab RAST
 TEINT RESIST
 IgG Ab RAST
 seguine, daphne
-Euphrasia
